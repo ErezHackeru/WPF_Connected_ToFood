@@ -1,0 +1,15 @@
+D:\VisualStudio_Projects\CourseHackerU\Web\WpfApp_FoodWebApi\WpfApp_FoodWebApi\bin\Debug\WpfApp_FoodWebApi.exe.config
+D:\VisualStudio_Projects\CourseHackerU\Web\WpfApp_FoodWebApi\WpfApp_FoodWebApi\bin\Debug\WpfApp_FoodWebApi.exe
+D:\VisualStudio_Projects\CourseHackerU\Web\WpfApp_FoodWebApi\WpfApp_FoodWebApi\bin\Debug\WpfApp_FoodWebApi.pdb
+D:\VisualStudio_Projects\CourseHackerU\Web\WpfApp_FoodWebApi\WpfApp_FoodWebApi\obj\Debug\WpfApp_FoodWebApi.csprojAssemblyReference.cache
+D:\VisualStudio_Projects\CourseHackerU\Web\WpfApp_FoodWebApi\WpfApp_FoodWebApi\obj\Debug\MainWindow.g.cs
+D:\VisualStudio_Projects\CourseHackerU\Web\WpfApp_FoodWebApi\WpfApp_FoodWebApi\obj\Debug\App.g.cs
+D:\VisualStudio_Projects\CourseHackerU\Web\WpfApp_FoodWebApi\WpfApp_FoodWebApi\obj\Debug\WpfApp_FoodWebApi_MarkupCompile.cache
+D:\VisualStudio_Projects\CourseHackerU\Web\WpfApp_FoodWebApi\WpfApp_FoodWebApi\obj\Debug\WpfApp_FoodWebApi_MarkupCompile.lref
+D:\VisualStudio_Projects\CourseHackerU\Web\WpfApp_FoodWebApi\WpfApp_FoodWebApi\obj\Debug\MainWindow.baml
+D:\VisualStudio_Projects\CourseHackerU\Web\WpfApp_FoodWebApi\WpfApp_FoodWebApi\obj\Debug\WpfApp_FoodWebApi.g.resources
+D:\VisualStudio_Projects\CourseHackerU\Web\WpfApp_FoodWebApi\WpfApp_FoodWebApi\obj\Debug\WpfApp_FoodWebApi.Properties.Resources.resources
+D:\VisualStudio_Projects\CourseHackerU\Web\WpfApp_FoodWebApi\WpfApp_FoodWebApi\obj\Debug\WpfApp_FoodWebApi.csproj.GenerateResource.cache
+D:\VisualStudio_Projects\CourseHackerU\Web\WpfApp_FoodWebApi\WpfApp_FoodWebApi\obj\Debug\WpfApp_FoodWebApi.csproj.CoreCompileInputs.cache
+D:\VisualStudio_Projects\CourseHackerU\Web\WpfApp_FoodWebApi\WpfApp_FoodWebApi\obj\Debug\WpfApp_FoodWebApi.exe
+D:\VisualStudio_Projects\CourseHackerU\Web\WpfApp_FoodWebApi\WpfApp_FoodWebApi\obj\Debug\WpfApp_FoodWebApi.pdb
